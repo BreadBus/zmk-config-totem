@@ -85,8 +85,8 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                       &kp Q  &kp W  &kp E      &kp R           &kp T        &kp Y    &kp U      &kp I     &kp O  &kp P
-                       &kp A  &kp S  &kp D      &kp F           &kp G        &kp H    &kp J      &kp K     &kp L  &kt O
+                       &kp A  &kp W  &kp E      &kp R           &kp T        &kp Y    &kp U      &kp I     &kp O  &kp P
+                       &kp Q  &kp S  &kp D      &kp F           &kp G        &kp H    &kp J      &kp K     &kp L  &kp O
 &mt LEFT_CONTROL CLCK  &kp Z  &kp X  &kp C      &kp V           &kp B        &kp N    &trans     &trans    &kp M  &kp FSLH  &mt RIGHT_WIN QUESTION
                                      &lt 1 TAB  &kp LEFT_SHIFT  &kp SPACE    &kp RET  &lt 2 ESC  &kp BSPC
             >;
@@ -140,7 +140,7 @@
          &kp EXCL       &kp NUMBER_1  &kp NUMBER_4  &kp NUMBER_7  &kp NUMBER_0         &kp CARET         &kp AMPS  &kp AT     &kp AMPERSAND         &kp RIGHT_PARENTHESIS
          &kp SEMICOLON  &kp NUMBER_2  &kp NUMBER_5  &kp NUMBER_8  &mo 3                &kp ASTRK         &kp EXCL  &kp POUND  &kp LEFT_PARENTHESIS  &kp PLUS
 &kp SQT  &kp COLON      &kp NUMBER_3  &kp NUMBER_6  &kp NUMBER_9  &kp DOUBLE_QUOTES    &kp K_PLAY_PAUSE  &trans    &trans     &kp MINUS             &kp UNDER              &kp EQUAL
-                                      &kp K_MUTE    &kp C_VOL_DN  &kp C_VOLUME_UP      &kp LC(C)         &trans    &kt LC(V)
+                                      &kp K_MUTE    &kp C_VOL_DN  &kp C_VOLUME_UP      &kp LC(C)         &trans    &kp LC(V)
             >;
         };
 
